@@ -1,2 +1,2 @@
 # cv
-My very first elementary HTML page
+My very first basic HTML page
